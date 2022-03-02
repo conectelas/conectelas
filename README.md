@@ -12,7 +12,7 @@
 <h4 align="center">
 
 <h2 id="Sobre">🔎 Sobre o Projeto: </h2>
-Criamos Rede Social desenvolvida como projeto final do Bootcamp de Pessoal Desenvolvedora FullStack Java da Generation Brasil, como objeto de solução temos a ODS 5: Desigualdade de Gênero. Propomos uma Rede Social, com foco em mulheres onde as públicações serão direcionadas a três (3) temas especificos: Empregabilidade, Marketplace e a Home, a fim de trazermos discussões relevantes e um grupo de apoio e seguro onde pudessem ser realizados postagens para troca de vagas de empregego a fim de direcionar nossas usuárias ao mercado de trabalho e com a opção de vendas de produtos e serviços entre as usuárias, facilitando e fomentando o mercado para mulheres.
+Criamos Rede Social desenvolvida como projeto final do Bootcamp de Pessoal Desenvolvedora FullStack Java da Generation Brasil, como objeto de solução temos a ODS 5: Desigualdade de Gênero. Propomos uma Rede Social, com foco em mulheres onde as públicações serão direcionadas a três (3) temas especificos: Empregabilidade, Marketplace e a Home, a fim de trazermos discussões relevantes e um grupo de apoio e seguro onde pudessem ser realizados postagens para troca de vagas de emprego a fim de direcionar nossas usuárias ao mercado de trabalho e com a opção de vendas de produtos e serviços entre as usuárias, facilitando e fomentando o mercado para mulheres.
 
 
   <h2 id="Etapas">Etapas do Desenvolvimento: </h2>
