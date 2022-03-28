@@ -48,11 +48,23 @@ Criamos Rede Social desenvolvida como projeto final do Bootcamp de Pessoal Desen
   
   <h2 id="grupo">Desenvolvedores e Idealizadores🥇</h2>
   
-  <h4 align="center"> 
-| [<img src="https://avatars.githubusercontent.com/u/95032107?v=4" width=115><br><sub>Daniela Goulart</sub>](https://github.com/danigoulart) |  [<img src="https://avatars.githubusercontent.com/u/91089946?v=4" width=115><br><sub>Luiz Gustavo</sub>](https://github.com/LGustavoMachado) |  [<img src="https://user-images.githubusercontent.com/95032107/152820097-590e8efa-7a4f-43a0-bb59-83c0415980ed.png" width=115><br><sub>Leonardo</sub>](https://github.com/leodsc) |   [<img src="https://avatars.githubusercontent.com/u/98328341?v=4" width=115><br><sub>Vanessa</sub>](https://github.com/vanessa-nvr) |  [<img src="https://avatars.githubusercontent.com/u/91750608?v=4" width=115><br><sub>João Victor</sub>](https://github.com/victorcosta1) | [<img src="https://user-images.githubusercontent.com/95032107/152822289-ece05534-abd3-450e-9fa9-5f7e5f29fee5.png" width=115><br><sub>Erika Kuo</sub>](https://github.com/erikakuo) | |  [<img src="https://user-images.githubusercontent.com/95032107/152822329-a3832b42-81a8-439e-9a69-8a17d40ecf98.png" width=115><br><sub>Lucas Silva</sub>](https://github.com/lucasbrlos) 
-| :---: | :---: | :---: |  :---: |  :---: | :---: |  :---: |  :---: |
+  <table>
+  <tr>
+    <td align="center"><a href="https://github.com/danigoulart"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160393528-c5adc486-e25d-41af-98b0-1f3b00cee752.jpeg" width="100px;" alt=""/><br /><sub><b>Daniela Goulart</b></sub></a><br /><a href="https://github.com/danigoulart" title="GitHub Dani">👩🏻‍💻</a></td> 
+    <td align="center"><a href="https://github.com/LGustavoMachado"><img style="border-radius: 50%;" src="https://i.imgur.com/dc7aGhV.jpg" width="100px;" alt=""/><br /><sub><b>Luiz Gustavo</b></sub></a><br /><a href="https://github.com/LGustavoMachado" title="GitHub Luis">👨🏽‍💻</a></td>
+    <td align="center"><a href="https://github.com/leodsc"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160392049-5d21fa1e-6967-45ac-9544-066f11042a53.png" width="100px;" alt=""/><br /><sub><b>Leonardo</b></sub></a><br /><a href="https://github.com/LucasHerculanoAmaro" title="GitHub Leonardo">👨🏾‍💻</a></td>
+    <td align="center"><a href="https://github.com/vanessa-nvr"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160393874-c65f1122-2ded-436e-8a59-bd3bbbbca167.png" width="100px;" alt=""/><br /><sub><b>Vanessa Navarro</b></sub></a><br /><a href="https://github.com/vanessa-nvr" title="GitHub Vanessa">👩🏽‍💻</a></td>
+    <td align="center"><a href="https://github.com/victorcosta1"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160394732-a5902ecc-ba8a-4240-8232-803f732c300b.png" width="100px;" alt=""/><br /><sub><b>Victor Costa</b></sub></a><br /><a href="https://github.com/victorcosta1" title="GitHub Victor">👨🏻‍💻</a></td> 
+    <td align="center"><a href="https://github.com/erikakuo"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160397568-c263e84d-7386-4dbb-baaf-3e18cdbf587c.png" width="100px;" alt=""/><br /><sub><b>Erika Kuo</b></sub></a><br /><a href="https://github.com/erikakuo" title="GitHub Erika">👨🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/lucasbrlos"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160394259-e74bb5b4-0624-4cec-8646-b7cca73a50f3.png" width="100px;" alt=""/><br /><sub><b>Lucas Silva</b></sub></a><br /><a href="https://github.com/lucasbrlos" title="GitHub Lucas">👩🏻‍💻</a></td>
+    
+  </tr>
+ 
+</table>
     
   <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
   
+
+
