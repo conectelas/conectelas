@@ -51,7 +51,7 @@ Criamos Rede Social desenvolvida como projeto final do Bootcamp de Pessoal Desen
   <table>
   <tr>
     <td align="center"><a href="https://github.com/danigoulart"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160393528-c5adc486-e25d-41af-98b0-1f3b00cee752.jpeg" width="100px;" alt=""/><br /><sub><b>Daniela Goulart</b></sub></a><br /><a href="https://github.com/danigoulart" title="GitHub Dani">👩🏻‍💻</a></td> 
-    <td align="center"><a href="https://github.com/LGustavoMachado"><img style="border-radius: 50%;" src="https://i.imgur.com/dc7aGhV.jpg" width="100px;" alt=""/><br /><sub><b>Luiz Gustavo</b></sub></a><br /><a href="https://github.com/LGustavoMachado" title="GitHub Luis">👨🏽‍💻</a></td>
+    <td align="center"><a href="https://github.com/LGustavoMachado"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/162229968-17575354-cb71-42e6-9e4a-77a40367c658.jpeg" width="100px;" alt=""/><br /><sub><b>Luiz Gustavo</b></sub></a><br /><a href="https://github.com/LGustavoMachado" title="GitHub Luis">👨🏽‍💻</a></td>
     <td align="center"><a href="https://github.com/leodsc"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160392049-5d21fa1e-6967-45ac-9544-066f11042a53.png" width="100px;" alt=""/><br /><sub><b>Leonardo</b></sub></a><br /><a href="https://github.com/LucasHerculanoAmaro" title="GitHub Leonardo">👨🏾‍💻</a></td>
     <td align="center"><a href="https://github.com/vanessa-nvr"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160393874-c65f1122-2ded-436e-8a59-bd3bbbbca167.png" width="100px;" alt=""/><br /><sub><b>Vanessa Navarro</b></sub></a><br /><a href="https://github.com/vanessa-nvr" title="GitHub Vanessa">👩🏽‍💻</a></td>
     <td align="center"><a href="https://github.com/victorcosta1"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/99820984/160394732-a5902ecc-ba8a-4240-8232-803f732c300b.png" width="100px;" alt=""/><br /><sub><b>Victor Costa</b></sub></a><br /><a href="https://github.com/victorcosta1" title="GitHub Victor">👨🏻‍💻</a></td> 
@@ -64,7 +64,6 @@ Criamos Rede Social desenvolvida como projeto final do Bootcamp de Pessoal Desen
     
   <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
-</h4>
-  
+
 
 
